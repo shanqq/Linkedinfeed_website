@@ -1,0 +1,7 @@
+CSS:
+  font-size - increases fontsize
+  color: changes color of font
+  border: 1px solid blue; - changes border on all sides
+  margin: adds space
+
+  Make something horizontal: display: flex; align-items: center;
